@@ -37,7 +37,7 @@ proxy-providers:
     proxy: 直连      
    
   猫耳:
-    url: "[订阅地址（机场原始地址/Sub-Store格式化后的地址）]"
+    url: "[https://m2dy.zhunchuanpb.com/api/v1/client/subscribe?token=b05b64ca2dcb622c49268bd8bab3f0e3]"
     type: http
     interval: 86400
     health-check:
